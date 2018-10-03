@@ -3,7 +3,7 @@
 
 ## About
 
-Previously, I've done a test of the registration feature, but I wanted to take it further
+Previously, I had done a test of the registration feature, but I wanted to take it further
 by combining the test with another essential feature (login) as well as using other practices.
 
 
